@@ -7,6 +7,7 @@ class Message():
         a simple function that prints a message
         """
         print "Hi Srikanth!"
+        echo `date`
 
 
 if __name__ == "__main__":
