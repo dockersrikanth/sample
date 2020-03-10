@@ -6,7 +6,7 @@ class Message():
         """
         a simple function that prints a message
         """
-        print "Hello Srikanth!"
+        print "Hi Srikanth!"
 
 
 if __name__ == "__main__":
